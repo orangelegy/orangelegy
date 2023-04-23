@@ -1,4 +1,4 @@
-[![个人网站](https://img.shields.io/badge/个人网站-网络驿站-green)](https://webrelay.cn/) [![个人博客](https://img.shields.io/badge/个人博客-Blog of 青橙-orange)](https://blog.webrelay.cn/) [![Bilibili](https://img.shields.io/badge/Bilibili-青木登-blue?logo=bilibili)](https://space.bilibili.com/88877294) 
+[![个人网站](https://img.shields.io/badge/个人网站-网络驿站-green)](https://webrelay.cn/) [![个人博客](https://img.shields.io/badge/个人博客-青橙-orange)](https://blog.webrelay.cn/) [![Bilibili](https://img.shields.io/badge/Bilibili-青木登-blue?logo=bilibili)](https://space.bilibili.com/88877294) 
 
 <!--
 **orangelegy/orangelegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
