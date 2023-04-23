@@ -1,4 +1,4 @@
-![Bilibili](https://img.shields.io/badge/-青木登-blue?logo=bilibili)
+![Bilibili](https://img.shields.io/badge/ -青木登-blue?logo=bilibili)
 
 <!--
 **orangelegy/orangelegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
