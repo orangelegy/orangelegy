@@ -1,5 +1,5 @@
-[![个人网站](https://img.shields.io/badge/MySite-网络驿站-green?style=for-the-badge)](https://webrelay.cn/) 
-[![个人博客](https://img.shields.io/badge/MyBlog-青橙日志-orange?style=for-the-badge)](https://blog.webrelay.cn/) 
+[![个人博客](https://img.shields.io/badge/MyBlog-青橙日志-orange?style=for-the-badge)](https://qclog.net/) 
+[![我的网站](https://img.shields.io/badge/MySite-网络驿站-green?style=for-the-badge)](https://webrelay.cn/) 
 [![Bilibili](https://img.shields.io/badge/Bilibili-青木登-blue?logo=bilibili&style=for-the-badge)](https://space.bilibili.com/88877294) 
 [![Weibo](https://img.shields.io/badge/Weibo-李青木登-red?logo=sina%20weibo&style=for-the-badge)](https://weibo.com/orangelegy) 
 [![Spotify](https://img.shields.io/badge/Spotify-青橙-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/user/31t3l5qo65q67g2nudyopovt6kgi) 
